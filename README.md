@@ -1,4 +1,3 @@
-# ADM-HW4
 <H1>ADM Homework 4</H1> 
 <H2>Does basic house information reflect house's description?</H2>
 
