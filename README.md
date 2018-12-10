@@ -28,17 +28,19 @@
  <ul>
   <li type="circle">
     <a href="https://github.com/maxriposati/ADM-HW4/blob/master/HW4_ADM%20-%20Part%201.ipynb"
-       rel="noopener" target="_blank">HW4_ADM - Part 1.ipynb</a>
+       rel="noopener noreferrer" target="_blank">HW4_ADM - Part 1.ipynb</a>
   </li>
   <li type="circle">
     <a href="https://github.com/maxriposati/ADM-HW4/blob/master/HW4_ADM%20-%20Part%202.ipynb"
-       rel="noopener" target="_blank">HW4_ADM - Part 2.ipynb</a>
+       rel="noopener noreferrer" target="_blank">HW4_ADM - Part 2.ipynb</a>
   </li>
   <li type="circle">
-    <a href="https://github.com/maxriposati/ADM-HW4/blob/master/clustering.py" rel="noopener" target="_blank">clustering.py</a>    
+    <a href="https://github.com/maxriposati/ADM-HW4/blob/master/clustering.py"
+       rel="noopener noreferrer" target="_blank">clustering.py</a>    
   </li>
   <li type="circle">
-    <a href="https://github.com/maxriposati/ADM-HW4/blob/master/read_clean.py" rel="noopener" target="_blank">read_clean.py</a>
+    <a href="https://github.com/maxriposati/ADM-HW4/blob/master/read_clean.py"
+       rel="noopener noreferrer" target="_blank">read_clean.py</a>
   </li>
 
  </ul>
