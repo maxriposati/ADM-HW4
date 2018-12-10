@@ -38,5 +38,5 @@
   <li type="circle">
     <a href="https://github.com/maxriposati/ADM-HW4/blob/master/read_clean.py" target="_blank">read_clean.py</a>
   </li>
-  
+
  </ul>
