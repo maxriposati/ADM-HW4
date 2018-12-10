@@ -26,10 +26,21 @@
 <H3>For completeness, here are the <b>nbviewer</b> links of the main code and the map:</H3>
  
  <ul>
-  <li type="circle">https://nbviewer.jupyter.org/github/maxriposati/ADM-HW4/HW4_ADM - Part 1.ipynb</li>
-  <li type="circle">ADM-HW4/HW4_ADM - Part 1.ipynb</li>
-      
-  <li type="circle">https://nbviewer.jupyter.org/github/maxriposati/ADM-HW4/HW4_ADM - Part 2.ipynb</li>
-  </ul>
+  <li type="circle">
+    <a href="https://github.com/maxriposati/ADM-HW4/blob/master/HW4_ADM%20-%20Part%201.ipynb">HW4_ADM - Part 1.ipynb</a>
+  </li>
+  <li type="circle">
+    <a href="https://github.com/maxriposati/ADM-HW4/blob/master/HW4_ADM%20-%20Part%202.ipynb">HW4_ADM - Part 2.ipynb</a>
+  </li>
+  <li type="circle">
+    <a href="https://github.com/maxriposati/ADM-HW4/blob/master/clustering.py">clustering.py</a>    
+  </li>
+  <li type="circle">
+    <a href="https://github.com/maxriposati/ADM-HW4/blob/master/read_clean.py">read_clean.py</a>
+  </li>
+  
+ </ul>
 
+        ADM-HW4/read_clean.py
+      
   
